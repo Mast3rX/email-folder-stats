@@ -1,5 +1,4 @@
-# PHP IMAP dashboard that reports incoming email volume by day, today’s total, and today’s per-minute average over a
-  selectable UTC date range
+# PHP IMAP dashboard that reports incoming email volume by day, today’s total, and today’s per-minute average over a selectable UTC date range
 
 Simple PHP page that:
 
